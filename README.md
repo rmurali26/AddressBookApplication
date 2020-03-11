@@ -24,7 +24,8 @@ Solution is writen in Java. I have created a Maven Project to fulfil the require
 - UI for the application is NOT required to be done as part of this challenge
 - Data Should only be persisted in memmory using simple data structures such as Set and List means no need to use a Database.
 ## PreRequisites
- Java 8
+ - Java 8
+ - Maven
 ## Instructions to run 
 
 ```bash
